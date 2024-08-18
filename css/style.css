@@ -70,9 +70,12 @@
 @media (max-width:768px){
     .container {
         overflow: auto;
+        padding: 2rem;
     }
     .box {
         margin: 2rem 0 ;
+        width: 100%;
+
     }
     .box h1 {
         font-size: 1rem;
